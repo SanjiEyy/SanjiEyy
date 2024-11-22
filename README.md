@@ -10,7 +10,7 @@
 ---
 
 ## 🔥 About Me
-Hello! I’m **Sanji**, also known as **Bryl John** – a passionate developer who loves solving complex problems and learning new technologies. My journey in coding is all about experimenting, building cool projects, and continuously improving my skills.
+Hello! I’m **Sanji**, also known as **Bryl John** – just normal man.
 
 ### 🚀 My Interests:
 - **Web Development**: Crafting modern, responsive websites and web apps.
