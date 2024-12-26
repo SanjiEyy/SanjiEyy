@@ -52,7 +52,8 @@ Hello! I’m **Sanji**, also known as **Bryl John** – just normal man.
 ---
 
 ## 📫 Contact Me
-If you want to reach out, feel free to **[email me](mailto:bryljohnt@gmail.com)** or message me on any of the platforms listed above.
+If you want to reach out, feel free to **[email me](mailto:sanjiabc94@gmail.com)** or
+ **[here](mailto:bryljohnt@gmail.com)** message me on any of the platforms listed above.
 
 ---
 
