@@ -9,7 +9,7 @@
 
 ## GitHub Stats
 
-![AGENT PERRY GitHub stats](https://github-readme-stats.vercel.app/api?username=Cliffvincent&show_icons=true&theme=radical)
+![AGENT PERRY GitHub stats](https://github-readme-stats.vercel.app/api?username=SanjiEyy&show_icons=true&theme=radical)
 
 ## GitHub Streak
 
